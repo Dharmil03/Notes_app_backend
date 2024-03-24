@@ -19,4 +19,4 @@ Apis for notes (ALL the routes is for Authenticated user only
 6) share a note -> POST api/v1/auth/notes/:id//share
 7) for search -> post api/v1/auth/search
 
-I have also user rate limiter and throttling to optimize APIS
+I have also used rate limiter and throttling to optimize APIS
